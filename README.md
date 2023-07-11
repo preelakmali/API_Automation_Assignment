@@ -37,9 +37,9 @@ This will execute the test and output results will populate in the Run console
   
  5. Extent Reports: Add the Extent Reports dependency to your project. You can include it in your Maven or Gradle configuration file, depending on the build tool you are using.
 
-   <img width="1191" alt="image" src="https://github.com/preelakmali/API_Automation_Assignment/assets/32593676/3cca19f0-39c0-4f93-848f-a6d53a081027">
+<img width="1195" alt="image" src="https://github.com/preelakmali/API_Automation_Assignment/assets/32593676/f9358c60-4c16-4e4e-b37e-5ac37f2c2932">
 
-   <img width="1186" alt="image" src="https://github.com/preelakmali/API_Automation_Assignment/assets/32593676/93e0b2d8-e610-4739-9527-c92b25ccfd1e">
+<img width="1191" alt="image" src="https://github.com/preelakmali/API_Automation_Assignment/assets/32593676/f6e6f054-e649-4c4f-9097-f35e7026a30f">
 
 ## Authors
 Preethi lakmali Bandara
